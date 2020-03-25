@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yiranfeng.github.io/</id>
+    <id>https://lemoncrashed.github.io/</id>
     <title>我是一只想跑的鱼</title>
-    <updated>2020-03-22T07:29:36.799Z</updated>
+    <updated>2020-03-25T02:12:01.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yiranfeng.github.io/"/>
-    <link rel="self" href="https://yiranfeng.github.io//atom.xml"/>
+    <link rel="alternate" href="https://lemoncrashed.github.io/"/>
+    <link rel="self" href="https://lemoncrashed.github.io//atom.xml"/>
     <subtitle>如鱼饮水 冷暖自知</subtitle>
-    <logo>https://yiranfeng.github.io//images/avatar.png</logo>
-    <icon>https://yiranfeng.github.io//favicon.ico</icon>
+    <logo>https://lemoncrashed.github.io//images/avatar.png</logo>
+    <icon>https://lemoncrashed.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, 我是一只想跑的鱼</rights>
     <entry>
         <title type="html"><![CDATA[Hi There]]></title>
-        <id>https://yiranfeng.github.io//post/hi</id>
-        <link href="https://yiranfeng.github.io//post/hi">
+        <id>https://lemoncrashed.github.io//post/hi</id>
+        <link href="https://lemoncrashed.github.io//post/hi">
         </link>
         <updated>2020-03-22T07:20:53.000Z</updated>
     </entry>
